@@ -1,1 +1,5 @@
-/target
+target/
+.vscode/
+*.pdb
+rustfmt.toml
+*.exe
